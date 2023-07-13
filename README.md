@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mavi</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mavi" alt="Typing SVG" /></a>
+</p>
 
 <div>
   <a href="https://github.com/maviYoki">
