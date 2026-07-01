@@ -1,17 +1,20 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mavi" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=250&color=F7F7F7&center=true&vCenter=true&width=435&lines=Oii+%F0%9F%91%8B%2C+eu+sou+a+Mavi!" alt="Typing SVG" />
+  </a>
 </p>
 
-## 👩🏻‍💻 About Me
-💡 Software Engineering student who loves turning ideas into code.
+👩🏻‍💻 Sobre Mim
 
-🌱 Currently learning React and working towards becoming a Full Stack Developer.
+💡 Estudante de Engenharia de Software que adora transformar ideias em código.
 
-🚀 I enjoy building projects, learning new technologies and challenging myself with real-world problems.
+🌱 Atualmente, estou mergulhando no universo React e explorando as tecnologias e metodologias modernas.
 
-🤝 I've worked on academic and personal projects involving REST APIs, databases, Git/GitHub and Kanban.
+🚀 Gosto de desenvolver projetos, aprender novas tecnologias.
 
-💻 Technologies I've worked with:   
+🤝 Já trabalhei em projetos acadêmicos e pessoais envolvendo APIs REST, bancos de dados, Git/GitHub e Kanban.
+
+💻 Tecnologias com as quais já trabalhei:
 <p align="left"> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
